@@ -82,7 +82,7 @@ useEffect(() => {
   }
 
   return (
-    <div className=" md:1/2 lg:w-2/5">
+    <div className=" md:1/2 lg:w-2/5 ">
         <h2 className=" font-black text-3xl text-center">Seguimiento Pacientes</h2>
 
         <p className=" text-lg mt-5 text-center mb-5">
